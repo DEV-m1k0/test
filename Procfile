@@ -1,0 +1,1 @@
+web: gunicorn ad_site.wsgi --log-file -
